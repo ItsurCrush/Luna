@@ -1,9 +1,9 @@
 services:
   # A Docker web service
   - type: web
-    name: ChishiyaPlus
+    name: Luna-bot
     env: docker
-    region: Singapore
+    region: Oregon, USA
     plan: free
     envVars:
       - key: PORT
