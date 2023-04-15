@@ -3,7 +3,7 @@ services:
   - type: web
     name: ChishiyaPlus
     env: docker
-    region: Oregon (USA)
+    region: Oregon (US West)
     plan: free
     envVars:
       - key: PORT
